@@ -94,7 +94,7 @@ Once one or more files are attached users can Download or Delete them. Plus add 
 ![image.png](/.attachments/image-904fcd1d-c586-4dca-ba3c-aad6eb6a26f4.png)
 _Note that that for specific filetypes e.g. images, on click on the file name, their instant preview is possible._
 
-##Test case results
+## Test case results
 
 Lower in the run page's run summary tab, the test case results are available to be reviewed and further analyzed. 
 
@@ -111,7 +111,7 @@ To do so, you can select from the checkmarks the cases that you like to relate t
 _Marked case for further item relation_
 
 
-#Detailed test case results
+# Detailed test case results
 
 To further see the detailed results of a ran case, users can click on the respective case that they are interested in and a new screen will load. 
 
