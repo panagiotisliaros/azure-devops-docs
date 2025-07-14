@@ -1,51 +1,10 @@
 # Public Documentation for the New Test Runs Feature
 
-# -- ***{DRAFT} --*** 
-
-**Internal note for the reviewers: Note that once the doc gets
-finalized, all screenshots will be anonymized, i.e. PII/ org information
-will be masked.**
-
-[Public Documentation for the New Test Runs Feature
-[1](#public-documentation-for-the-new-test-runs-feature)](#public-documentation-for-the-new-test-runs-feature)
-
-[-- {DRAFT} -- [1](#draft---)](#draft---)
-
-[!This feature is in public preview and can be changed at any time!
-[1](#this-feature-is-in-public-preview-and-can-be-changed-at-any-time)](#this-feature-is-in-public-preview-and-can-be-changed-at-any-time)
-
-[What is a test run? [2](#what-is-a-test-run)](#what-is-a-test-run)
-
-[Core elements of a test run
-[5](#core-elements-of-a-test-run)](#core-elements-of-a-test-run)
-
-[Run states [5](#run-states)](#run-states)
-
-[Run summary [6](#run-summary)](#run-summary)
-
-[Attachments [7](#attachments)](#attachments)
-
-[Analytics [8](#analytics)](#analytics)
-
-[Test case results [9](#test-case-results)](#test-case-results)
-
-[Detailed test case results
-[10](#detailed-test-case-results)](#detailed-test-case-results)
-
-[Analysis information
-[11](#analysis-information)](#analysis-information)
-
-[Related articles [12](#related-articles)](#related-articles)
-
-# 
-
 ## !This feature is in public preview and can be changed at any time!
 
-Microsoft’s Azure DevOps team has a new experience in place for the
-Azure Test Plans’ Run pages.
+Microsoft’s Azure DevOps team has a new experience in place for the Azure Test Plans’ Run pages.
 
-The experience is automatically activated in your org and you still have
-the option to disable it.
+The experience is automatically activated in your org and you still have the option to disable it.
 
 In case you decide to deactivate the experience and use the old one, you
 can follow the two steps seen below. I.e. click on the preview features
