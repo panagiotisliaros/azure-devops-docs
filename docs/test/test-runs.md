@@ -48,9 +48,10 @@ the top search bar.
 
 Note:
 
-- The default filters for every time the run page loads are set to runs
-  of the last 7 days (“Past 7d”) and “Manual” runs. Similar to when the
-  filters are cleared.
+- The default filters are set to runs of the last 7 days (“Past 7d”) and “Manual” runs.
+
+- Once the user makes a selection of filters, for every next visit to the
+  run page, the filters will persist. At least until the user chooses to clear them.
 
 - When searching based on test run ID a partial match of the ID is
   possible.
